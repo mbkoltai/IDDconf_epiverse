@@ -92,3 +92,10 @@ Please adhere to this project's [Code of Conduct](/.github/CODE_OF_CONDUCT.md).
 ### Support
 
 Please see our [Getting help guide](/.github/SUPPORT.md) for support.
+
+### Other notes
+
+use https://readme.so/editor to create/edit README files
+
+general principles can be found in the paper [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+
