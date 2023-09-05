@@ -61,3 +61,17 @@ source("make.R")
   installed (if necessary)
 - All required packages and R functions will be loaded
 - Some analyses listed in the `make.R` might take time
+
+### Contributing
+
+Contributions are always welcome!
+
+See our [Contributing guide](/.github/CONTRIBUTING.md) for ways to get
+started.
+
+Please adhere to this project’s [Code of
+Conduct](/.github/CODE_OF_CONDUCT.md).
+
+### Support
+
+Please see our [Getting help guide](/.github/SUPPORT.md) for support.
