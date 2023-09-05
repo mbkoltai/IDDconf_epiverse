@@ -1,0 +1,25 @@
+Package: IDDconf_epiverse
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Mihaly",
+           family  = "Koltai",
+           role    = c("aut", "cre", "cph"),
+           email   = "kolmisi@gmail.com",
+           comment = c(ORCID = "")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/mbkoltai/IDDconf_epiverse
+BugReports: https://github.com/mbkoltai/IDDconf_epiverse/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    devtools,
+    here,
+    pak,
+    rcompendium,
+    remotes,
+    usethis
