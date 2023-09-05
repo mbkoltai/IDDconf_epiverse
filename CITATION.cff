@@ -1,0 +1,22 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "IDDconf_epiverse" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'IDDconf_epiverse: Reproducible code'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Koltai
+  given-names: Mihaly
+  email: kolmisi@gmail.com
+repository-code: https://github.com/mbkoltai/IDDconf_epiverse
+url: https://github.com/mbkoltai/IDDconf_epiverse
+contact:
+- family-names: Koltai
+  given-names: Mihaly
+  email: kolmisi@gmail.com

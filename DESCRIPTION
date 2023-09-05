@@ -1,6 +1,6 @@
 Package: IDDconf_epiverse
 Type: Package
-Title: The Title of the Project
+Title: Reproducible code
 Version: 0.0.0.9000
 Authors@R: c(
     person(given   = "Mihaly",
@@ -22,4 +22,5 @@ Imports:
     pak,
     rcompendium,
     remotes,
+    renv,
     usethis
